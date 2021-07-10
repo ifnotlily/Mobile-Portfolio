@@ -356,6 +356,15 @@ body {
     margin: 88px 0px;
   }
 
+  #iteme-7 {
+
+    grid-row-start: 6;
+    grid-column-start: 1;
+
+    grid-row-end: 7;
+    grid-column-end: 3;
+    margin: 88px 0px;
+  }
 
 
 
