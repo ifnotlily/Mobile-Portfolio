@@ -11,7 +11,7 @@ body {
 @media screen and (max-width: 680px) {
 
 
-  .angry-grid {
+  .section-grid {
 
     display: grid;
     gap: 0px;
@@ -105,6 +105,257 @@ body {
     grid-column-end: 3;
     margin: 88px 0px;
   }
+
+  #itemb-0 {
+
+    grid-row-start: 1;
+    grid-column-start: 1;
+
+    grid-row-end: 2;
+    grid-column-end: 5;
+    margin: 12px 0px;
+  }
+
+  #itemb-1 {
+
+    grid-row-start: 2;
+    grid-column-start: 1;
+
+    grid-row-end: 3;
+    grid-column-end: 3;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 44px;
+    color: #172B4D;
+    margin: 12px 0px;
+
+  }
+
+  #itemb-2 {
+    grid-row-start: 3;
+    grid-column-start: 1;
+
+    grid-row-end: 4;
+    grid-column-end: 5;
+    margin: 12px 0px;
+  }
+
+  #itemb-3 {
+
+    grid-row-start: 4;
+    grid-column-start: 1;
+
+    grid-row-end: 5;
+    grid-column-end: 5;
+    margin: 12px 0px;
+  }
+
+  #itemb-4 {
+    grid-row-start: 5;
+    grid-column-start: 1;
+
+    grid-row-end: 6;
+    grid-column-end: 2;
+    margin: 0px 8px;
+  }
+
+  #itemb-5 {
+    grid-row-start: 5;
+    grid-column-start: 2;
+
+    grid-row-end: 6;
+    grid-column-end: 3;
+    margin: 0px 8px;
+  }
+
+  #itemb-6 {
+    grid-row-start: 5;
+    grid-column-start: 3;
+
+    grid-row-end: 6;
+    grid-column-end: 4;
+    margin: 0px 8px;
+  }
+
+  #itemb-7 {
+
+    grid-row-start: 6;
+    grid-column-start: 1;
+
+    grid-row-end: 7;
+    grid-column-end: 3;
+    margin: 88px 0px;
+  }
+
+  #itemc-0 {
+
+    grid-row-start: 1;
+    grid-column-start: 1;
+
+    grid-row-end: 2;
+    grid-column-end: 5;
+    margin: 12px 0px;
+  }
+
+  #itemc-1 {
+
+    grid-row-start: 2;
+    grid-column-start: 1;
+
+    grid-row-end: 3;
+    grid-column-end: 3;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 44px;
+    color: #172B4D;
+    margin: 12px 0px;
+
+  }
+
+  #itemc-2 {
+    grid-row-start: 3;
+    grid-column-start: 1;
+
+    grid-row-end: 4;
+    grid-column-end: 5;
+    margin: 12px 0px;
+  }
+
+  #itemc-3 {
+
+    grid-row-start: 4;
+    grid-column-start: 1;
+
+    grid-row-end: 5;
+    grid-column-end: 5;
+    margin: 12px 0px;
+  }
+
+  #itemc-4 {
+    grid-row-start: 5;
+    grid-column-start: 1;
+
+    grid-row-end: 6;
+    grid-column-end: 2;
+    margin: 0px 8px;
+  }
+
+  #itemc-5 {
+    grid-row-start: 5;
+    grid-column-start: 2;
+
+    grid-row-end: 6;
+    grid-column-end: 3;
+    margin: 0px 8px;
+  }
+
+  #itemc-6 {
+    grid-row-start: 5;
+    grid-column-start: 3;
+
+    grid-row-end: 6;
+    grid-column-end: 4;
+    margin: 0px 8px;
+  }
+
+  #itemc-7 {
+
+    grid-row-start: 6;
+    grid-column-start: 1;
+
+    grid-row-end: 7;
+    grid-column-end: 3;
+    margin: 88px 0px;
+  }
+
+
+  #itemd-0 {
+
+    grid-row-start: 1;
+    grid-column-start: 1;
+
+    grid-row-end: 2;
+    grid-column-end: 5;
+    margin: 12px 0px;
+  }
+
+  #itemd-1 {
+
+    grid-row-start: 2;
+    grid-column-start: 1;
+
+    grid-row-end: 3;
+    grid-column-end: 3;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 44px;
+    color: #172B4D;
+    margin: 12px 0px;
+
+  }
+
+  #itemd-2 {
+    grid-row-start: 3;
+    grid-column-start: 1;
+
+    grid-row-end: 4;
+    grid-column-end: 5;
+    margin: 12px 0px;
+  }
+
+  #itemd-3 {
+
+    grid-row-start: 4;
+    grid-column-start: 1;
+
+    grid-row-end: 5;
+    grid-column-end: 5;
+    margin: 12px 0px;
+  }
+
+  #itemd-4 {
+    grid-row-start: 5;
+    grid-column-start: 1;
+
+    grid-row-end: 6;
+    grid-column-end: 2;
+    margin: 0px 8px;
+  }
+
+  #itemd-5 {
+    grid-row-start: 5;
+    grid-column-start: 2;
+
+    grid-row-end: 6;
+    grid-column-end: 3;
+    margin: 0px 8px;
+  }
+
+  #itemd-6 {
+    grid-row-start: 5;
+    grid-column-start: 3;
+
+    grid-row-end: 6;
+    grid-column-end: 4;
+    margin: 0px 8px;
+  }
+
+  #itemd-7 {
+
+    grid-row-start: 6;
+    grid-column-start: 1;
+
+    grid-row-end: 7;
+    grid-column-end: 3;
+    margin: 88px 0px;
+  }
+
 
 
 
@@ -367,3 +618,4 @@ body {
     width: 100%;
     text-decoration: none
   }
+}
